@@ -1,9 +1,11 @@
 # Healthcare Insurance Analysis
 
 ### Project overview
+
 The project aims to investigate the relationship between sex, age and region on Medical Insurance Charges
 
-![Health Insurance](https://github.com/Ogolis/Healthcare-Insurance/assets/136832743/4ee4bc74-2052-46e0-95ac-63d6fa468d44)
+![Health Insurance](https://github.com/Ogolis/Healthcare-Insurance/assets/136832743/3f41231d-a0bb-4d95-932f-f9d4c06375dd)
+
 
 ### Data Sources:
 
