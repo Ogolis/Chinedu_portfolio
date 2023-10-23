@@ -2,7 +2,7 @@
 
 ### Project overview
 
-The project aims to investigate the effect sex, age and region has on Healthi nsurance Charges
+The project aims to investigate the effect sex, age and region has on Health insurance Charges
 
 ![Health Insurance](https://github.com/Ogolis/Healthcare-Insurance/assets/136832743/3f41231d-a0bb-4d95-932f-f9d4c06375dd)
 
